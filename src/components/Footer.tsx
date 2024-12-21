@@ -15,7 +15,7 @@ export default function Footer() {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/devadvancer"
+              href="https://github.com/DevAdvancer/Algorithm-Visualiser"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 flex items-center gap-2"
